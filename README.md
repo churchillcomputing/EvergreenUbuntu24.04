@@ -4,7 +4,7 @@ Evergreen ILS installed on Ubuntu Server 24.04 LTS
 Visit churchillcomputing.com for all your library cybersecurity needs.
 
 
-Download Virtualbox: [https://tinyurl.com/n2xwds44]
+Download Virtualbox: https://tinyurl.com/n2xwds44
 
 Download the VM zip file: [https://tinyurl.com/Evergreen-Ubuntu2404LTS](https://tinyurl.com/Evergreen-Ubuntu2404LTS)
 

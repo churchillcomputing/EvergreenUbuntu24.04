@@ -6,7 +6,7 @@ Visit churchillcomputing.com for all your library cybersecurity needs.
 
 Download Virtualbox: [https://tinyurl.com/n2xwds44]
 
-Download the VM zip file: [https://tinyurl.com/EvergreenUbuntu2404LTS](https://tinyurl.com/Evergreen-Ubuntu2404LTS)
+Download the VM zip file: [https://tinyurl.com/Evergreen-Ubuntu2404LTS](https://tinyurl.com/Evergreen-Ubuntu2404LTS)
 
 Set VirtualBox to use a bridged adapter: VM > Settings > Network > Attached To: Bridged Adapter
 

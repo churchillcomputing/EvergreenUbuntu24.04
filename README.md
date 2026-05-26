@@ -22,7 +22,7 @@ password:opensrf
 
 cd /openils/bin
 
-osrf_control --start_all -localhost
+osrf_control --start_all --localhost
 
 exit
 
